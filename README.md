@@ -1,2 +1,2 @@
 # daveburg.github.io
-Amie &amp; Steve's Wedding Repo &lt;3
+Amie &amp; Steve's Wedding Repo :bride_with_veil: :heart: :man:
