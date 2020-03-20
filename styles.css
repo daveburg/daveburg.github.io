@@ -26,11 +26,26 @@
 .script-font {
   font-family: 'Amatic SC', cursive;
   font-size: 5vw;
-  margin-top: 2vw;
-  margin-bottom: 2vw;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
 }
 
 .content {
   margin-bottom: 100px;
   text-align: center;
+}
+
+.row {
+  height: 100vh; 
+}
+
+img {
+  height: 100vh;
+  object-fit: cover;
+  width: 100%;
+}
+
+.col-3 {
+  padding-left: 0px;
+  padding-right: 0px;
 }
