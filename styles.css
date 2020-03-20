@@ -3,6 +3,10 @@
     object-position: left;
   }
 
+  .border-image-left {
+    object-position: right;
+  }
+
 }
 .container {
   max-width: fit-content;
