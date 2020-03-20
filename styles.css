@@ -1,3 +1,9 @@
+@media (max-width: 800px) {
+  .border-image-right {
+    object-position: left;
+  }
+
+}
 .container {
   max-width: fit-content;
   padding-left: 0px;
