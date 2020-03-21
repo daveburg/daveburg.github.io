@@ -7,6 +7,10 @@
   align-content: center;
 }
 
+.btn {
+  margin: 2.5vh;
+}
+
 .nora-font {
   font-family: 'Lora', serif;
   font-size: 2vw;
@@ -15,7 +19,6 @@
 .nora-font-larger {
   font-family: 'Lora', serif;
   font-size: 2.5vw;
-  padding-bottom: 2.5vh;
 }
 
 .dancing-font {
@@ -62,20 +65,17 @@ img {
   .border-image-left {
     object-position: right;
   }
-  
+
   .dancing-font {
     font-size: 12.5vw;
-    padding-bottom: 2.5vh;
   }
 
   .nora-font {
     font-size: 3.5vw;
-    padding-bottom: 2.5vh;
   }
 
   .script-font {
     font-size: 8vw;
-    padding-bottom: 2.5vh;
   }
 
   .nora-font-larger {
