@@ -12,9 +12,10 @@
   font-size: 2vw;
 }
 
-.nora-font-bold {
+.nora-font-larger {
   font-family: 'Lora', serif;
   font-size: 2.5vw;
+  padding-bottom: 2.5vh;
 }
 
 .dancing-font {
@@ -36,7 +37,7 @@
 }
 
 .row {
-  height: 100vh; 
+  height: 100vh;
 }
 
 img {
@@ -76,8 +77,8 @@ img {
     font-size: 8vw;
     padding-bottom: 2.5vh;
   }
-  
-  .nora-font-bold {
+
+  .nora-font-larger {
     font-size: 4vw;
   }
 }
